@@ -1,3 +1,9 @@
+# EXPO를 이용한 리액트 네이티브
+
+> 이제는 리액트에서 expo 빌드를 권장함.
+
+- 기준: 2025/4/15
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
